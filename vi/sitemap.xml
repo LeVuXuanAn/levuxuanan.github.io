@@ -2,244 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/vi/2-week2/2.2-module2/2.2.1-vpc/</loc>
+    <loc>/vi/1_introduction/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-week2/2.2-module2/2.2.1-vpc/"
+                href="/1_introduction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-week2/2.2-module2/2.2.1-vpc/"
+                href="/vi/1_introduction/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/1-week1/1.1-module1/1.1.1-awswaf/</loc>
+    <loc>/vi/2_content/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/1-week1/1.1-module1/1.1.1-awswaf/"
+                href="/2_content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/1-week1/1.1-module1/1.1.1-awswaf/"
+                href="/vi/2_content/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/</loc>
+    <loc>/vi/3-experience/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/"
+                href="/3-experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/"
+                href="/vi/3-experience/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/1-week1/1.1-module1/</loc>
+    <loc>/vi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/1-week1/1.1-module1/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/1-week1/1.1-module1/"
+                href="/vi/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/2-week2/2.1-sovico/</loc>
+    <loc>/vi/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-week2/2.1-sovico/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-week2/2.1-sovico/"
+                href="/vi/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/1-week1/</loc>
+    <loc>/vi/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/1-week1/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/1-week1/"
-                />
-  </url><url>
-    <loc>//localhost:1313/vi/2-week2/2.1-sovico/2.1.1-vpc/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/2-week2/2.1-sovico/2.1.1-vpc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/2-week2/2.1-sovico/2.1.1-vpc/"
-                />
-  </url><url>
-    <loc>//localhost:1313/vi/1-week1/1.2-lab1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/1-week1/1.2-lab1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/1-week1/1.2-lab1/"
-                />
-  </url><url>
-    <loc>//localhost:1313/vi/2-week2/2.2-module2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/2-week2/2.2-module2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/2-week2/2.2-module2/"
-                />
-  </url><url>
-    <loc>//localhost:1313/vi/2-week2/2.1-sovico/2.1.2-multivpcs/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/2-week2/2.1-sovico/2.1.2-multivpcs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/2-week2/2.1-sovico/2.1.2-multivpcs/"
-                />
-  </url><url>
-    <loc>//localhost:1313/vi/2-week2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/2-week2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/2-week2/"
-                />
-  </url><url>
-    <loc>//localhost:1313/vi/2-week2/2.2-module2/2.2.2-vpcsec-multivpcs/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/2-week2/2.2-module2/2.2.2-vpcsec-multivpcs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/2-week2/2.2-module2/2.2.2-vpcsec-multivpcs/"
-                />
-  </url><url>
-    <loc>//localhost:1313/vi/2-week2/2.1-sovico/2.1.3-securitycontrols/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/2-week2/2.1-sovico/2.1.3-securitycontrols/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/2-week2/2.1-sovico/2.1.3-securitycontrols/"
-                />
-  </url><url>
-    <loc>//localhost:1313/vi/1-week1/1.3-lab7/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/1-week1/1.3-lab7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/1-week1/1.3-lab7/"
-                />
-  </url><url>
-    <loc>//localhost:1313/vi/2-week2/2.3-gapvxawsevent/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/2-week2/2.3-gapvxawsevent/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/2-week2/2.3-gapvxawsevent/"
-                />
-  </url><url>
-    <loc>//localhost:1313/vi/2-week2/2.1-sovico/2.1.4-connectonpremises/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/2-week2/2.1-sovico/2.1.4-connectonpremises/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/2-week2/2.1-sovico/2.1.4-connectonpremises/"
-                />
-  </url><url>
-    <loc>//localhost:1313/vi/1-week1/1.4-lab9/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/1-week1/1.4-lab9/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/1-week1/1.4-lab9/"
-                />
-  </url><url>
-    <loc>//localhost:1313/vi/2-week2/2.1-sovico/2.1.5-networkmonitoring/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/2-week2/2.1-sovico/2.1.5-networkmonitoring/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/2-week2/2.1-sovico/2.1.5-networkmonitoring/"
-                />
-  </url><url>
-    <loc>//localhost:1313/vi/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/categories/"
-                />
-  </url><url>
-    <loc>//localhost:1313/vi/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/tags/"
+                href="/vi/tags/"
                 />
   </url>
 </urlset>
